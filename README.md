@@ -12,4 +12,6 @@ Consider **[supporting my work](https://github.com/sponsors/farazjalili)**. Than
 
 ### Courses & tutorials
 - **[C++ Crash course](https://github.com/farazjalili/CPP-Crash-Course)** is an introduction to C++ for non-C++ programmers.
-- **[Modern Cmake course](https://github.com/farazjalili/CMAKE-Crash-Course)** is an introduction to CMake for C++ programmers.
+- **[Modern Cmake Crash course](https://github.com/farazjalili/CMAKE-Crash-Course)** is an introduction to CMake for C++ programmers.
+- **[Artificial Intelligence Crash course](https://farazjalili.github.io/AI-Crash-Course/)** is an introduction to Artificial Intelligence for Beginner.
+
